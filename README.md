@@ -2,25 +2,6 @@
 
 A curated list of tools, services, and resources for Security Operations and Incident Response practitioners. Each entry includes a brief synopsis to help you quickly identify its purpose.
 
-## Table of Contents
-
-- [Online Reputation Tools](#online-reputation-tools)
-- [Online Multi-Purpose Tools](#online-multi-purpose-tools)
-- [Online Anti-Spam](#online-anti-spam)
-- [Online Sandboxing](#online-sandboxing)
-- [Not Distribute](#not-distribute)
-- [Malware Analysis](#malware-analysis)
-  - [Ransomware](#ransomware)
-  - [Rootkits](#rootkits)
-- [TOR](#tor)
-- [Cyber Threat Intelligence (CTI)](#cyber-threat-intelligence-cti)
-- [CERTs](#certs)
-- [Capture The Flag (CTF)](#ctfs)
-- [IDS/IPS Tools](#idsips-tools)
-- [Incident Response Distros](#incident-response-distros)
-- [Tracker Services](#tracker-services)
-- [Real-Time Response](#real-time-response)
-
 ---
 
 ## Online Reputation Tools
